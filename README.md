@@ -1,2 +1,2 @@
-# Stock-Price-Prediction
-Stock market prediction is the act of trying to determine the future value of a company stock
+# StockPrediction
+Stock prediction of Netflix using LSTM with Jupter notebook code.
