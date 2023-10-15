@@ -23,7 +23,7 @@ import torch.nn as nn
 # In[44]:
 
 
-df= pd.read_csv("/home/sethukarasi/Downloads/netflix.csv")
+df= pd.read_csv("/Users/DELL/Downloads/netflix.csv")
 closed_prices = df["Close"]
 
 
